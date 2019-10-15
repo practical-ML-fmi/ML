@@ -17,7 +17,7 @@
  >
  > Performance Metrics
  
- ### [Lecture 3](./Lectures/Lecture3.pptx)
+### [Lecture 3](./Lectures/Lecture3.pptx)
  
  > Nearest Neighbors
  >
