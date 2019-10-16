@@ -28,6 +28,7 @@
 # Labs
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
 #### [Installing Anaconda - Linux](./Labs/Install Anaconda - Linux.pdf)
+#### [Project Requirements](./LabsProject requirements.pdf)
 
 ### [Lab 1](./Labs/lab1.zip)
  > Introduction to Python
@@ -35,5 +36,10 @@
  > Introduction to Numpy
  >
  > Introduction to Matplotlib
+ 
+### [Lab 2](./Labs/lab2.zip)
+ > k - Nearest Neighbors
+ >
+ > Naive Bayes
  
   
