@@ -24,7 +24,13 @@
  > Local Learning
  >
  > Curse of Dimensionality
- 
+
+### [Lecture 4](./Lectures/Lecture4.pptx)
+
+> Kernel Methods
+>
+> Ridge Regression
+
 # Labs
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
 #### [Installing Anaconda - Linux](./Labs/Install Anaconda - Linux.pdf)
