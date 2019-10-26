@@ -32,6 +32,7 @@
 > Ridge Regression
 
 # Labs
+## [Datasets and details](https://docs.google.com/spreadsheets/d/1S3UIukZj-0f25NozxQDft5oaAW166bia1YKPLPOjPMo/edit?usp=sharing) 
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
 #### [Installing Anaconda - Linux](./Labs/Install Anaconda - Linux.pdf)
 #### [Project Requirements](./Labs/Project requirements.pdf)
