@@ -31,6 +31,12 @@
 >
 > Ridge Regression
 
+### [Lecture 5](./Lectures/Lecture5.pptx)
+
+> Support Vector Machines
+>
+> Logistic Regression
+
 # Labs
 ## [Datasets and details](https://docs.google.com/spreadsheets/d/1S3UIukZj-0f25NozxQDft5oaAW166bia1YKPLPOjPMo/edit?usp=sharing) 
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
