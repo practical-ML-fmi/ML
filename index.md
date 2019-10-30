@@ -55,4 +55,10 @@
  >
  > Naive Bayes
  
+### [Lab 3](./Labs/lab3.zip)
+ > Bag of Words
+ >
+ > Kernel Ridge Regression
+ >
+ > Support Vector Machines
   
