@@ -137,4 +137,7 @@
 ### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2019-23)
 ### [Link pentru înscriere](https://www.kaggle.com/t/d1952e556a8049ae9b969f38799bd5d6)
 
+# Notare Proiecte
  
+### [Note Seria 23](./Note/Note-proiect-23-2019.pdf)
+### [Note Seria 24, Grupa 311, Reluare studii](./Note/Note-proiect-24-2019.pdf) 

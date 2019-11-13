@@ -1,14 +1,64 @@
 
-# Courses
+# Lectures
 
-### [Course 1](./Cursuri/Curs1.pptx)
+### [Lecture 1](./Lectures/Lecture1.pptx)
  
+ > Introduction to Machine Learning
+ >
+ > Basic Concepts
+ >
+ > Learning Paradigms
+
+### [Lecture 2](./Lectures/Lecture2.pptx)
+ 
+ > Basic Concepts
+ >
+ > Naive Bayes
+ >
+ > Performance Metrics
+ 
+### [Lecture 3](./Lectures/Lecture3.pptx)
+ 
+ > Nearest Neighbors
+ >
+ > Local Learning
+ >
+ > Curse of Dimensionality
+
+### [Lecture 4](./Lectures/Lecture4.pptx)
+
+> Kernel Methods
+>
+> Ridge Regression
+
+### [Lecture 5](./Lectures/Lecture5.pptx)
+
+> Support Vector Machines
+>
+> Logistic Regression
 
 # Labs
+## [Datasets and details](https://docs.google.com/spreadsheets/d/1S3UIukZj-0f25NozxQDft5oaAW166bia1YKPLPOjPMo/edit?usp=sharing) 
+#### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
+#### [Installing Anaconda - Linux](./Labs/Install Anaconda - Linux.pdf)
+#### [Project Requirements](./Labs/Project requirements.pdf)
 
-### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
-### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
-### [Lab1](./Laboratoare/Laboratorul 1.pdf)
-
- >>> Introducere în Python
+### [Lab 1](./Labs/lab1.zip)
+ > Introduction to Python
+ >
+ > Introduction to Numpy
+ >
+ > Introduction to Matplotlib
+ 
+### [Lab 2](./Labs/lab2.zip)
+ > k - Nearest Neighbors
+ >
+ > Naive Bayes
+ 
+### [Lab 3](./Labs/lab3.zip)
+ > Bag of Words
+ >
+ > Kernel Ridge Regression
+ >
+ > Support Vector Machines
   
