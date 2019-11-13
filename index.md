@@ -61,4 +61,9 @@
  > Kernel Ridge Regression
  >
  > Support Vector Machines
+ 
+ ### [Lab 4](./Labs/lab4.zip)
+ > Neural Networks
+ >
+ > Convolutional Neural Networks 
   
