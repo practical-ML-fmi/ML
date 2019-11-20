@@ -37,6 +37,28 @@
 >
 > Logistic Regression
 
+### [Lecture 6](./Lectures/Lecture6.pptx)
+
+> Loss Functions and Optimization
+>
+> Gradient Descent
+
+### [Lecture 7](./Lectures/Lecture7.pptx)
+
+> Neural Networks
+>
+> Introduction to Deep Learning
+>
+> Dropout
+
+### [Lecture 8](./Lectures/Lecture8.pptx)
+
+> Convolutional Neural Networks
+>
+> Convolutional Layer
+>
+> Pooling Layer
+
 # Labs
 ## [Datasets and details](https://docs.google.com/spreadsheets/d/1S3UIukZj-0f25NozxQDft5oaAW166bia1YKPLPOjPMo/edit?usp=sharing) 
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
