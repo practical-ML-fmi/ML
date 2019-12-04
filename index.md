@@ -100,4 +100,10 @@
  > Neural Networks
  >
  > Convolutional Neural Networks 
+ 
+### [Lab 5](./Labs/lab5.ipynb)
+ > K-means
+ >
+ > DBSCAN
+
   
