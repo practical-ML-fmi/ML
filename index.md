@@ -105,5 +105,8 @@
  > K-means
  >
  > DBSCAN
+ 
+ ### [Lab 6](./Labs/lab6.ipynb)
+ > PCA
 
   
