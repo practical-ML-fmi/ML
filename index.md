@@ -106,7 +106,7 @@
  >
  > DBSCAN
  
- ### [Lab 6](./Labs/lab6.ipynb)
+### [Lab 6](./Labs/lab6.ipynb)
  > PCA
 
   
