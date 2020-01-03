@@ -74,8 +74,10 @@
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
 #### [Installing Anaconda - Linux](./Labs/Install Anaconda - Linux.pdf)
 #### [Project Requirements](./Labs/Project requirements.pdf)
+ 
+### Deadline for Project 2 data set proposal: 12 January, 23:59 (no extensions allowed)
+### Deadline for Project 2 submission: 18 January, 23:59 (no extensions allowed) 
 
-### Deadline for Project 1: December 7th, 23:59 (no extensions allowed)
 
 ### [Lab 1](./Labs/lab1.zip)
  > Introduction to Python
