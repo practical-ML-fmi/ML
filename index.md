@@ -61,6 +61,12 @@
 
 ### [Lecture 9](./Lectures/Lecture9.pptx)
 
+> Decision Trees
+>
+> Random Forests
+
+### [Lecture 10](./Lectures/Lecture10.pptx)
+
 > Bag-of-Words
 >
 > Term Frequency - Inverse Document Frequency
@@ -68,6 +74,24 @@
 > Bag-of-Visual-Words
 >
 > Histogram of Oriented Gradients
+
+### [Lecture 11](./Lectures/Lecture11.pptx)
+
+> K-means
+>
+> Clustering Goodness
+>
+> Soft k-means
+>
+> Kernel k-means
+
+### [Lecture 12](./Lectures/Lecture12.pptx)
+
+> DBSCAN
+>
+> Clustering by unmasking
+>
+> Hierarchical Clustering
 
 # Labs
 ## [Datasets and details](https://docs.google.com/spreadsheets/d/1S3UIukZj-0f25NozxQDft5oaAW166bia1YKPLPOjPMo/edit?usp=sharing) 
