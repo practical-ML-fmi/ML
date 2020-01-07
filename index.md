@@ -104,6 +104,7 @@
 
 
 ### [Lab 1](./Labs/lab1.zip)
+
  > Introduction to Python
  >
  > Introduction to Numpy
@@ -111,28 +112,33 @@
  > Introduction to Matplotlib
  
 ### [Lab 2](./Labs/lab2.zip)
- > k - Nearest Neighbors
+
+ > k-Nearest Neighbors
  >
  > Naive Bayes
  
 ### [Lab 3](./Labs/lab3.zip)
- > Bag of Words
+
+ > Bag-of-Words
  >
  > Kernel Ridge Regression
  >
  > Support Vector Machines
  
 ### [Lab 4](./Labs/lab4.zip)
+
  > Neural Networks
  >
  > Convolutional Neural Networks 
  
 ### [Lab 5](./Labs/lab5.ipynb)
+
  > K-means
  >
  > DBSCAN
  
 ### [Lab 6](./Labs/lab6.ipynb)
+
  > PCA
 
   
