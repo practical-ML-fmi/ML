@@ -140,5 +140,10 @@
 ### [Lab 6](./Labs/lab6.ipynb)
 
  > PCA
+ 
+ 
+### [Lab 7](./Labs/lab7.ipynb)
+
+ > Hierarchical clustering
 
   
