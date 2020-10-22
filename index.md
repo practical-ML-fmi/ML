@@ -9,13 +9,21 @@
  >
  > Learning Paradigms
  
- ### [Lecture 2](./Lectures/Lecture2.pptx)
+### [Lecture 2](./Lectures/Lecture2.pptx)
  
  > Basic Concepts
  >
  > Naive Bayes
  >
  > Performance Metrics
+
+### [Lecture 3](./Lectures/Lecture3.pptx)
+
+> Nearest Neighbors
+>
+> Local Learning
+>
+> Curse of Dimensionality
 
 # Labs
  
