@@ -25,6 +25,12 @@
 >
 > Curse of Dimensionality
 
+### [Lecture 4](./Lectures/Lecture4.pptx)
+
+> Decision Trees
+>
+> Random Forests
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
