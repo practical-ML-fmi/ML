@@ -45,3 +45,9 @@
  >
  > Introduction to Matplotlib
  
+ ### [Lab 2](./Labs/lab2.zip)
+
+ > K Nearest Neighbors
+ >
+ > Naive Bayes
+ 
