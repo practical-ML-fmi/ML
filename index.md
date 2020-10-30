@@ -45,9 +45,16 @@
  >
  > Introduction to Matplotlib
  
- ### [Lab 2](./Labs/lab2.zip)
+### [Lab 2](./Labs/lab2.zip)
 
  > K Nearest Neighbors
  >
  > Naive Bayes
+ 
+### [Lab 3](./Labs/lab3.zip)
+
+ > Kernel Ridge Regression
+ >
+ > Support vector machines
+
  
