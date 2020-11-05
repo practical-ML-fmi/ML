@@ -31,6 +31,12 @@
 >
 > Random Forests
 
+### [Lecture 5](./Lectures/Lecture5.pptx)
+
+> Kernel Methods
+>
+> Ridge Regression
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
