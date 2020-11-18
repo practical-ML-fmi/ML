@@ -51,22 +51,27 @@
 
 ### [Lab 1](./Labs/lab1.zip)
 
- > Introduction to Python
- >
- > Introduction to Numpy
- >
- > Introduction to Matplotlib
+> Introduction to Python
+>
+> Introduction to Numpy
+>
+> Introduction to Matplotlib
  
 ### [Lab 2](./Labs/lab2.zip)
 
- > K Nearest Neighbors
- >
- > Naive Bayes
+> K Nearest Neighbors
+>
+> Naive Bayes
  
 ### [Lab 3](./Labs/lab3.zip)
 
- > Kernel Ridge Regression
- >
- > Support vector machines
+> Kernel Ridge Regression
+>
+> Support Vector Machines
 
  
+# Projects 
+
+### Supervised Task on Kaggle
+
+> [Link to challenge](https://www.kaggle.com/c/pml-2020-unibuc/)
