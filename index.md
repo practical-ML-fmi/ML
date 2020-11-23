@@ -57,4 +57,9 @@
  >
  > Support vector machines
 
- 
+### [Lab 4](./Labs/lab4.zip)
+
+ > Neural Networks
+ >
+ > Convolutional Neural Networks
+
