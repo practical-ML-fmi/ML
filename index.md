@@ -31,6 +31,18 @@
 >
 > Random Forests
 
+### [Lecture 5](./Lectures/Lecture5.pptx)
+
+> Kernel Methods
+>
+> Ridge Regression
+
+### [Lecture 6](./Lectures/Lecture6.pptx)
+
+> Support Vector Machines
+>
+> Logistic Regression
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
@@ -39,27 +51,33 @@
 
 ### [Lab 1](./Labs/lab1.zip)
 
- > Introduction to Python
- >
- > Introduction to Numpy
- >
- > Introduction to Matplotlib
+> Introduction to Python
+>
+> Introduction to Numpy
+>
+> Introduction to Matplotlib
  
 ### [Lab 2](./Labs/lab2.zip)
 
- > K Nearest Neighbors
- >
- > Naive Bayes
+> K Nearest Neighbors
+>
+> Naive Bayes
  
 ### [Lab 3](./Labs/lab3.zip)
 
- > Kernel Ridge Regression
- >
- > Support vector machines
+> Kernel Ridge Regression
+>
+> Support Vector Machines
 
 ### [Lab 4](./Labs/lab4.zip)
 
  > Neural Networks
  >
  > Convolutional Neural Networks
+
+# Projects 
+
+### Supervised Task on Kaggle
+
+> [Link to challenge](https://www.kaggle.com/c/pml-2020-unibuc/)
 
