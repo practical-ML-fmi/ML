@@ -43,6 +43,24 @@
 >
 > Logistic Regression
 
+### [Lecture 7](./Lectures/Lecture7.pptx)
+
+> Loss Functions and Optimization
+>
+> Gradient Descent
+>
+> [Code](./Lectures/code-l7.zip)
+
+### [Lecture 8](./Lectures/Lecture8.pptx)
+
+> Neural Networks
+>
+> Introduction to Deep Learning
+>
+> Dropout
+>
+> [Code](./Lectures/code-l8.zip)
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
