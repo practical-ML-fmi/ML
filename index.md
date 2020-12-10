@@ -69,6 +69,16 @@
 >
 > Pooling Layer
 
+### [Lecture 10](./Lectures/Lecture10.pptx)
+
+> Bag-of-Words
+>
+> Term Frequency - Inverse Document Frequency
+>
+> Bag-of-Visual-Words
+>
+> Histogram of Oriented Gradients
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
