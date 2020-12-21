@@ -111,6 +111,12 @@
  >
  > Convolutional Neural Networks
 
+### [Lab 5](./Labs/LAB05.ipynb)
+
+ > K-means
+ >
+ > DBSCAN
+
 # Projects 
 
 ### Supervised Task on Kaggle
