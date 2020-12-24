@@ -92,24 +92,32 @@
 > Introduction to Numpy
 >
 > Introduction to Matplotlib
+>
+> [Solutie](./Labs/Lab_1_solutie.zip)
  
 ### [Lab 2](./Labs/lab2.zip)
 
 > K Nearest Neighbors
 >
 > Naive Bayes
+>
+> [Solutie](./Labs/Lab_2_solutie.zip)
  
 ### [Lab 3](./Labs/lab3.zip)
 
 > Kernel Ridge Regression
 >
 > Support Vector Machines
+>
+> [Solutie](./Labs/Lab_3_solutie.zip)
 
 ### [Lab 4](./Labs/lab4.zip)
 
  > Neural Networks
  >
  > Convolutional Neural Networks
+ >
+ > [Solutie](./Labs/Lab_4_solutie.zip)
 
 ### [Lab 5](./Labs/LAB05.ipynb)
 
