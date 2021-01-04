@@ -124,6 +124,10 @@
  > K-means
  >
  > DBSCAN
+ 
+### [Lab 6](./Labs/pca)
+
+ > PCA
 
 # Projects 
 
