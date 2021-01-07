@@ -79,6 +79,24 @@
 >
 > Histogram of Oriented Gradients
 
+### [Lecture 11](./Lectures/Lecture11.pptx)
+
+> K-means
+>
+> Clustering Goodness
+>
+> Soft k-means
+>
+> Kernel k-means
+
+### [Lecture 12](./Lectures/Lecture12.pptx)
+
+> DBSCAN
+>
+> Clustering by unmasking
+>
+> Hierarchical Clustering
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
