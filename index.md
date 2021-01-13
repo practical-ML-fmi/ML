@@ -111,7 +111,7 @@
 >
 > Introduction to Matplotlib
 >
-> [Solutie](./Labs/Lab_1_solutie.zip)
+> [Solution](./Labs/Lab_1_solutie.zip)
  
 ### [Lab 2](./Labs/lab2.zip)
 
@@ -119,7 +119,7 @@
 >
 > Naive Bayes
 >
-> [Solutie](./Labs/Lab_2_solutie.zip)
+> [Solution](./Labs/Lab_2_solutie.zip)
  
 ### [Lab 3](./Labs/lab3.zip)
 
@@ -127,7 +127,7 @@
 >
 > Support Vector Machines
 >
-> [Solutie](./Labs/Lab_3_solutie.zip)
+> [Solution](./Labs/Lab_3_solutie.zip)
 
 ### [Lab 4](./Labs/lab4.zip)
 
@@ -135,17 +135,27 @@
  >
  > Convolutional Neural Networks
  >
- > [Solutie](./Labs/Lab_4_solutie.zip)
+ > [Solution](./Labs/Lab_4_solutie.zip)
 
 ### [Lab 5](./Labs/LAB05.ipynb)
 
  > K-means
  >
  > DBSCAN
+ >
+ > [Solution](./Labs/kmeans_dbscan_sol.ipynb)
  
 ### [Lab 6](./Labs/pca)
 
  > PCA
+
+ > [Solution](./Labs/pca_sol.ipynb)
+
+### [Lab 7](./Labs/lab7.ipynb)
+
+ > Hierachical Clustering
+
+ > [Solution](./Labs/lab7_sol.ipynb)
 
 # Projects 
 
