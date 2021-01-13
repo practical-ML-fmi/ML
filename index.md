@@ -155,8 +155,6 @@
 
  > Hierachical Clustering
 
- > [Solution](./Labs/lab7_sol.ipynb)
-
 # Projects 
 
 ### Supervised Task on Kaggle
