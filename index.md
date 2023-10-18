@@ -9,6 +9,14 @@
 >
 > Learning Paradigms
 
+### [Lecture 2](./Lectures/Lecture2.pptx)
+ 
+> Basic Concepts
+>
+> Naive Bayes
+>
+> Performance Metrics
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
@@ -21,3 +29,11 @@
 > Introduction to Numpy
 >
 > Introduction to Matplotlib
+>
+> [Solution](./Labs/Lab1_solutie.zip)
+ 
+### [Lab 2](./Labs/lab2.zip)
+
+> K-Nearest Neighbors
+>
+> Naive Bayes
