@@ -133,14 +133,8 @@
 > Support Vector Machines
 >
 > [Solution](./Labs/Lab3_solutie.zip)
-
-### [Lab 4](./Labs/lab4.zip)
-
- > Neural Networks
- >
- > Convolutional Neural Networks
  
- ### [Lab 4](./Labs/lab4.zip)
+### [Lab 4](./Labs/lab4.zip)
 
  > Neural Networks
  >
