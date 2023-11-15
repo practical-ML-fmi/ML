@@ -31,6 +31,18 @@
 >
 > Random Forests
 
+### [Lecture 5](./Lectures/Lecture5.pptx)
+
+> Kernel Methods
+>
+> Ridge Regression
+
+### [Lecture 6](./Lectures/Lecture6.pptx)
+
+> Support Vector Machines
+>
+> Logistic Regression
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
@@ -59,3 +71,12 @@
 > Kernel Ridge Regression
 >
 > Support Vector Machines
+>
+> [Solution](./Labs/Lab3_solutie.zip)
+ 
+### [Lab 4](./Labs/lab4.zip)
+
+ > Neural Networks
+ >
+ > Convolutional Neural Networks
+ 
