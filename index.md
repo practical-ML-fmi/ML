@@ -61,6 +61,14 @@
 >
 > [Code](./Lectures/code-l8.zip)
 
+### [Lecture 9](./Lectures/Lecture9.pptx)
+
+> Convolutional Neural Networks
+>
+> Convolutional Layer
+>
+> Pooling Layer
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
