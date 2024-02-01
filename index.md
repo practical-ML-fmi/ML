@@ -89,6 +89,21 @@
 >
 > Kernel k-means
 
+## [Lecture 12](./Lectures/Lecture12.pptx)
+
+> DBSCAN
+>
+> Clustering by unmasking
+>
+> Hierarchical Clustering
+
+### [Lecture 13](./Lectures/Lecture13.pptx)
+
+> Principal Component Analysis
+>
+> t-SNE
+
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
