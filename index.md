@@ -9,6 +9,27 @@
 >
 > Learning Paradigms
 
+### [Lecture 2](./Lectures/Lecture2.pptx)
+ 
+> Basic Concepts
+>
+> Naive Bayes
+>
+> Performance Metrics
+
+### [Lecture 3](./Lectures/Lecture3.pptx)
+
+> Nearest Neighbors
+>
+> Local Learning
+>
+> Curse of Dimensionality
+
+### [Lecture 4](./Lectures/Lecture4.pptx)
+
+> Decision Trees
+>
+> Random Forests
 
 # Labs
  
@@ -22,4 +43,11 @@
 > Introduction to Numpy
 >
 > Introduction to Matplotlib
+>
+> [Solution](./Labs/Lab1_solutie.zip)
+ 
+### [Lab 2](./Labs/lab2.zip)
 
+> K-Nearest Neighbors
+>
+> Naive Bayes
