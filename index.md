@@ -51,3 +51,11 @@
 > K-Nearest Neighbors
 >
 > Naive Bayes
+>
+> [Solution](./Labs/Lab2_solutie.zip)
+ 
+### [Lab 3](./Labs/lab3.zip)
+
+> Kernel Ridge Regression
+>
+> Support Vector Machines
