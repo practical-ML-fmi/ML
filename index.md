@@ -43,6 +43,52 @@
 >
 > Logistic Regression
 
+### [Lecture 7](./Lectures/Lecture7.pptx)
+
+> Loss Functions and Optimization
+>
+> Gradient Descent
+>
+> [Code](./Lectures/code-l7.zip)
+
+### [Lecture 8](./Lectures/Lecture8.pptx)
+
+> Neural Networks
+>
+> Introduction to Deep Learning
+>
+> Dropout
+>
+> [Code](./Lectures/code-l8.zip)
+
+### [Lecture 9](./Lectures/Lecture9.pptx)
+
+> Convolutional Neural Networks
+>
+> Convolutional Layer
+>
+> Pooling Layer
+
+### [Lecture 10](./Lectures/Lecture10.pptx)
+
+> Bag-of-Words
+>
+> Term Frequency - Inverse Document Frequency
+>
+> Bag-of-Visual-Words
+>
+> Histogram of Oriented Gradients
+
+### [Lecture 11](./Lectures/Lecture11.pptx)
+
+> K-means
+>
+> Clustering Goodness
+>
+> Soft k-means
+>
+> Kernel k-means
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
@@ -71,3 +117,29 @@
 > Kernel Ridge Regression
 >
 > Support Vector Machines
+>
+> [Solution](./Labs/Lab3_solutie.zip)
+ 
+### [Lab 4](./Labs/lab4.zip)
+
+ > Neural Networks
+ >
+ > Convolutional Neural Networks
+ >
+ > [Solution](./Labs/Lab4_solutie.zip)
+
+### [Lab 5](./Labs/lab5.zip)
+
+ > K-means
+ >
+ > DBSCAN
+ >
+ > [Solution](./Labs/Lab5_solutie.zip)
+
+### [Lab 6](./Labs/lab6.zip)
+
+ > K-means
+ >
+ > DBSCAN
+ >
+ > Hierarchical Clustering
