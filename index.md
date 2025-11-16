@@ -37,6 +37,20 @@
 >
 > Ridge Regression
 
+### [Lecture 6](./Lectures/Lecture6.pptx)
+
+> Support Vector Machines
+>
+> Logistic Regression
+
+### [Lecture 7](./Lectures/Lecture7.pptx)
+
+> Loss Functions and Optimization
+>
+> Gradient Descent
+>
+> [Code](./Lectures/code-l7.zip)
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
@@ -65,3 +79,12 @@
 > Kernel Ridge Regression
 >
 > Support Vector Machines
+>
+> [Solution](./Labs/Lab3_solutie.zip)
+ 
+### [Lab 4](./Labs/lab4.zip)
+
+ > Neural Networks
+ >
+ > Convolutional Neural Networks
+ 
