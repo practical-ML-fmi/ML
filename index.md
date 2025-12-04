@@ -51,6 +51,34 @@
 >
 > [Code](./Lectures/code-l7.zip)
 
+### [Lecture 8](./Lectures/Lecture8.pptx)
+
+> Neural Networks
+>
+> Introduction to Deep Learning
+>
+> Dropout
+>
+> [Code](./Lectures/code-l8.zip)
+
+### [Lecture 9](./Lectures/Lecture9.pptx)
+
+> Convolutional Neural Networks
+>
+> Convolutional Layer
+>
+> Pooling Layer
+
+### [Lecture 10](./Lectures/Lecture10.pptx)
+
+> Bag-of-Words
+>
+> Term Frequency - Inverse Document Frequency
+>
+> Bag-of-Visual-Words
+>
+> Histogram of Oriented Gradients
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
@@ -87,4 +115,13 @@
  > Neural Networks
  >
  > Convolutional Neural Networks
+ >
+ > [Solution](./Labs/Lab4_solutie.zip)
+
+### [Lab 5](./Labs/lab5.zip)
+
+ > K-means
+ >
+ > DBSCAN
+ 
  
