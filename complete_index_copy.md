@@ -77,7 +77,7 @@
 >
 > Bag-of-Visual-Words
 >
-> Histogram of Oriented Gradients
+> Scale-Invariant Feature Transform
 
 ### [Lecture 11](./Lectures/Lecture11.pptx)
 
