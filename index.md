@@ -89,7 +89,7 @@
 >
 > Kernel k-means
 
-## [Lecture 12](./Lectures/Lecture12.pptx)
+### [Lecture 12](./Lectures/Lecture12.pptx)
 
 > DBSCAN
 >
