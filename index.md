@@ -9,6 +9,14 @@
 >
 > Learning Paradigms
 
+### [Lecture 2](./Lectures/Lecture2.pptx)
+ 
+> Basic Concepts
+>
+> Naive Bayes
+>
+> Performance Metrics
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
