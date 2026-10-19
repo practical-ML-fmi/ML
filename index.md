@@ -17,6 +17,14 @@
 >
 > Performance Metrics
 
+### [Lecture 3](./Lectures/Lecture3.pptx)
+
+> Nearest Neighbors
+>
+> Local Learning
+>
+> Curse of Dimensionality
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
@@ -29,3 +37,11 @@
 > Introduction to Numpy
 >
 > Introduction to Matplotlib
+>
+> [Solution](./Labs/Lab1_sol.zip)
+ 
+### [Lab 2](./Labs/lab2.zip)
+
+> K-Nearest Neighbors
+>
+> Naive Bayes
