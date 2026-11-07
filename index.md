@@ -25,6 +25,25 @@
 >
 > Curse of Dimensionality
 
+### [Lecture 4](./Lectures/Lecture4.pptx)
+
+> Decision Trees
+>
+> Random Forests
+
+### [Lecture 5](./Lectures/Lecture5.pptx)
+
+> Kernel Methods
+>
+> Ridge Regression
+
+### [Lecture 6](./Lectures/Lecture6.pptx)
+
+> Support Vector Machines
+>
+> Logistic Regression
+
+
 # Labs
  
 #### [Installing Anaconda - Windows](./Labs/Install Anaconda - Windows.pdf) 
@@ -45,3 +64,11 @@
 > K-Nearest Neighbors
 >
 > Naive Bayes
+>
+> [Solution](./Labs/Lab2_solutie.zip)
+ 
+### [Lab 3](./Labs/lab3.zip)
+
+> Kernel Ridge Regression
+>
+> Support Vector Machines
